@@ -7,7 +7,7 @@
 <title>.::Página Inicial::.</title>
 </head>
 <body>
-	<p>Página Inicial</p>
+	<p>Página Inicial novamente</p>
 	<img src="imagens/menu_topo.png" />
 </body>
 </html>
