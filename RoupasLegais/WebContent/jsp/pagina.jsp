@@ -8,5 +8,6 @@
 </head>
 <body>
 	<p>Página Inicial</p>
+	<img src="imagens/menu_topo.png" />
 </body>
 </html>
